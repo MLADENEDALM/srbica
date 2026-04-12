@@ -1,45 +1,45 @@
-uni0430 #аз
-uni0431 #буки
-uni0432 #вѣди
-uni0433 #глаголь
-uni0434 #добро
-uni0454 #ѥсть
-uni0436 #живѣтє
-uni0455 #ѕѣло
-uni0437 #зємлꙗ
-uni0438 #ижє
-uni0131 #краткои
-uni043A #како
-uni043B #люди
-uni043C #мислѥтє
-uni043D #нашь
-uni043E #онь
-uni043F #покои
-uni0440 #рци
-uni0441 #слово
-uni0442 #твєрдо
-uni0443 #укь
-uni0444 #фєрть
-uni0445 #хѥрь
-uni047F #оть
-uni0446 #ци
-uni0447 #чєрвь
-uni0448 #ша
-uni044A #дєбєло ѥрь
-uni044C #танко ѥрь
-uni044B #ѥри
-uni0463 #ꙗть
-uniA657 #ꙗ
-uni0465 #ѥ
-uni044E #ю
-uni0458 #ј
-uni0467 #юсь
-uni0452 #ђєрвь
-uni045B #ћєрвь
-uni0459 #љє
-uni045A #њє
-uni0461 #ѡмєга
-uni046F #кси
-uni0471 #пси
-uni0473 #тита
-uni0475 #ижица
+uni0430
+uni0431
+uni0432
+uni0433
+uni0434
+uni0454
+uni0436
+uni0455
+uni0437
+uni0438
+uni0131
+uni043A
+uni043B
+uni043C
+uni043D
+uni043E
+uni043F
+uni0440
+uni0441
+uni0442
+uni0443
+uni0444
+uni0445
+uni047F
+uni0446
+uni0447
+uni0448
+uni044A
+uni044C
+uni044B
+uni0463
+uniA657
+uni0465
+uni044E
+uni0458
+uni0467
+uni0452
+uni045B
+uni0459
+uni045A
+uni0461
+uni046F
+uni0471
+uni0473
+uni0475
